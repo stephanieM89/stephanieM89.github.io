@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stephanie_code
 github_username:  stephanieM89
+repository: "stephanieM89/stephanieM89.github.io"
 
 # Build settings
 markdown: kramdown
@@ -40,6 +41,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Staticman comments
+# Staticman comments (full configuration in staticman.yml)
+staticman:
+  branch: "master"
+
 staticmanUrl: https://dev.staticman.net/v3/entry/github/stephanieM89/stephanieM89.github.io/master/comments
-#staticmanUrl: https://api.staticman.net/v2/entry/stephanieM89/stephanieM89.github.io/master/comments
