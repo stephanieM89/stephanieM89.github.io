@@ -39,3 +39,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Staticman comments
+staticmanUrl: https://dev.staticman.net/v3/entry/github/stephanieM89/stephanieM89.github.io/master/comments
+#staticmanUrl: https://api.staticman.net/v2/entry/stephanieM89/stephanieM89.github.io/master/comments
