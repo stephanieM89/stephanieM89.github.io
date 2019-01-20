@@ -1,2 +1,2 @@
-# Please visit my blog, 
-Stephanie's Coding Adventures: https://stephaniescodingadventures.com/ #
+# My blog
+Stephanie's Coding Adventures: https://stephaniescodingadventures.com/ 
