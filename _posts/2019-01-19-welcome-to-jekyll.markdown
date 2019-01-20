@@ -5,9 +5,10 @@ date:   2019-01-18 20:30:22 +0000
 categories: jekyll codingchallenge
 ---
 
-This is my first blog post and Day 1 of the 100 Days of Code challenge.  100 Days of Code is an interesting coding challenge where you commit to spending an hour each day coding.  I'll be tracking my progress on this blog and twitter.  Day 1 was spent creating this blog using Jekyll which is a static site generator and works well with Github Pages.  It has been a while since I last used HTML and CSS so this was a nice refresher.
+<p>This is my first blog post and Day 1 of the 100 Days of Code challenge.  100 Days of Code is an interesting coding challenge where you commit to spending an hour each day coding.  I'll be tracking my progress on this blog and twitter.  Day 1 was spent creating this blog using Jekyll which is a static site generator and works well with Github Pages.  It has been a while since I last used HTML and CSS so this was a nice refresher.</p>
 
-
+<p>
 ![Web Page Screenshot](/assets\page1.JPG){: .center-image} 
+</p>
 
 {% include comments.html %}
