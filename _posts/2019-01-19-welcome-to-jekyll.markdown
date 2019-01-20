@@ -9,3 +9,5 @@ This is my first blog post and Day 1 of the 100 Days of Code challenge.  100 Day
 
 
 ![Web Page Screenshot](/assets\page1.JPG){: .center-image} 
+
+{% include comments.html %}
