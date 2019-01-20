@@ -55,12 +55,12 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    #apiKey: "3939b93a-d63f4d8c"
+    #apiKey: "a0d1a1cb0864e71eb1f639dc2ff75cbd-3939b93a-d63f4d8c"
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    #domain: "stephaniescodingadventures.com"
+    #domain: "nEbjUNV9rjXwIzfT2GKyav5mpfmoRXkTVA8OGNTirrf2iASn8NtHqwmmwfOiOqrmtnTHE1y+X+w2huRcbDs5vPiS13VRTPg24pjnEOeW7na5PAmbZ/uxl+zTOhGZFBGZt1bHA9k51STKtbp58n5mAFEJG374NdFKlUAOwZTS+ao="
 
   # (*) REQUIRED
   #
