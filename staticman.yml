@@ -43,7 +43,7 @@ comments:
   moderation: true
 
   # Name of the site. Used in notification emails.
-  name: "stephanieM89.github.io"
+  name: "stephaniescodingadventures.com"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -60,7 +60,7 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    #domain: ""
+    #domain: "stephaniescodingadventures.com"
 
   # (*) REQUIRED
   #

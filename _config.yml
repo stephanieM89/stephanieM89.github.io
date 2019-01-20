@@ -17,8 +17,8 @@ title: Stephanie's Coding Adventures
 email: stephaniescodingadventure@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
         Hi, I'm Stephanie. Software developer. Blogger. Macaron connoisseur. Adventurer. Traveller. Believer in living life to the full.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stephaniem89.github.io/stephanieM89" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://stephaniescodingadventures.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stephanie_code
 github_username:  stephanieM89
 repository: "stephanieM89/stephanieM89.github.io"
