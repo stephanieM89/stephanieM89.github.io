@@ -21,4 +21,3 @@ categories: jekyll codingchallenge
 <br/>
 <br/>
 <hr>
-{% include comments.html %}
