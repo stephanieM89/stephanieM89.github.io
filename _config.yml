@@ -41,7 +41,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Staticman comments (full configuration in staticman.yml)
-staticman:
-  branch: "master"
 
