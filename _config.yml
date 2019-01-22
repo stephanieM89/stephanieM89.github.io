@@ -23,16 +23,19 @@ theme: minima
 plugins:
   - jekyll-feed
 
-[params.comments.staticman]
-enable = true
-apiEndpoint = "https://dev.staticman.net/v3/entry/github"
-maxDepth = 2
+staticmanUrl: https://dev.staticman.net/v3/entry/github/stephanieM89/stephaneiM89.github.io/master/comments
 
 
-[params.comments.staticman.github]
-username = "stephanieM89"
-repository = "stephanieM89.github.io"
-branch = "master"
+#[params.comments.staticman]
+#enable = true
+#apiEndpoint = "https://dev.staticman.net/v3/entry/github"
+#maxDepth = 2
+
+
+#[params.comments.staticman.github]
+#username = "stephanieM89"
+#repository = "stephanieM89.github.io"
+#branch = "master"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
