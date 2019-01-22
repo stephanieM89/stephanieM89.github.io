@@ -23,7 +23,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-staticmanUrl: https://dev.staticman.net/v3/entry/github/stephanieM89/stephaneiM89.github.io/master/comments
+staticmanUrl: https://dev.staticman.net/v3/entry/github/stephanieM89/stephanieM89.github.io/master/comments
 
 
 #[params.comments.staticman]
